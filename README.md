@@ -3,6 +3,7 @@
 Given that the call to `PowerService.GetTrades` returns the following trade positions:
 
 **Trade 1**
+
 | Date     | Period | Volume |
 |----------|-------:|-------:|
 | 1/4/2015 |      1 |    100 |
@@ -31,6 +32,7 @@ Given that the call to `PowerService.GetTrades` returns the following trade posi
 |          |     24 |    100 |
 
 **Trade 2**
+
 | Date     | Period | Volume |
 |----------|-------:|-------:|
 | 1/4/2015 |      1 |     50 |
@@ -59,6 +61,7 @@ Given that the call to `PowerService.GetTrades` returns the following trade posi
 |          |     24 |    -20 |
 
 The expected output would be:
+
 | Local Time | Volume |
 | ---        | ---:   |
 | 23:00      | 150    |
