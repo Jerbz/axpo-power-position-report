@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Axpo.PowerPositionReport", "Axpo.PowerPositionReport.csproj", "{E9668E7A-4447-4AAF-A29E-48D7908BFB25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9668E7A-4447-4AAF-A29E-48D7908BFB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9668E7A-4447-4AAF-A29E-48D7908BFB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9668E7A-4447-4AAF-A29E-48D7908BFB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9668E7A-4447-4AAF-A29E-48D7908BFB25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEA328C6-D62D-4489-A9B6-68BBC47EB404}
+	EndGlobalSection
+EndGlobal
