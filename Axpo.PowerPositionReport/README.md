@@ -1,6 +1,6 @@
 # Axpo Power Position Report
 
-This applicattion retrieves power trades from the provided PowerService.dll, 
+This application retrieves power trades from the provided PowerService.dll, 
 aggregates hourly volumes, and generates a CSV report on a configurable schedule.
 
 ## Features
@@ -11,7 +11,7 @@ aggregates hourly volumes, and generates a CSV report on a configurable schedule
 - Logging
 
 ## Run 
-dotner run
+dotnet run
 
 ## Output
 PowerPosition_YYYYMMDD_HHMM.csv
